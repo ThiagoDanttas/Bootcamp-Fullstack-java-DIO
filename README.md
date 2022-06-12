@@ -5,7 +5,7 @@ Repositório criado para compartilhar os conteúdos e as atividades desenvolvida
 
  ## Tecnologias  :technologist:
   - Git/GitHub
-  - HTML/CSS
+  - HTML | CSS | JAVASCRIPT
   - ANGULAR
   - JAVA
   - SPRING FRAMEWORK
