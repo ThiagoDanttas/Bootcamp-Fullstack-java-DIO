@@ -1,0 +1,32 @@
+body {
+  font-family: sans-serif;
+  background-color: #f7b600;
+}
+
+.container-cont {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  flex-direction: column;
+  max-width: 300px;
+  margin: 5rem auto;
+  min-height: 300px;
+  border: 1px solid white;
+  padding: 1rem;
+}
+
+.buttons {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+span {
+  border-radius: 50%;
+  background-color: #fff;
+  color: #000;
+  padding: 1.2rem;
+  cursor: pointer;
+  font-size: 1.2rem;
+}
